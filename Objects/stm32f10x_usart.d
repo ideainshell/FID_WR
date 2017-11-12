@@ -1,0 +1,17 @@
+.\objects\stm32f10x_usart.o: STDLIB\src\stm32f10x_usart.c
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_usart.h
+.\objects\stm32f10x_usart.o: .\CMSIS\stm32f10x.h
+.\objects\stm32f10x_usart.o: .\CMSIS\core_cm3.h
+.\objects\stm32f10x_usart.o: D:\pro\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_usart.o: .\CMSIS\system_stm32f10x.h
+.\objects\stm32f10x_usart.o: .\USER\stm32f10x_conf.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_bkp.h
+.\objects\stm32f10x_usart.o: .\CMSIS\stm32f10x.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_dma.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_gpio.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_pwr.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_rcc.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_rtc.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_sdio.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\stm32f10x_usart.h
+.\objects\stm32f10x_usart.o: .\STDLIB\inc\misc.h

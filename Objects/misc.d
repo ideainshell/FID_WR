@@ -1,0 +1,17 @@
+.\objects\misc.o: STDLIB\src\misc.c
+.\objects\misc.o: .\STDLIB\inc\misc.h
+.\objects\misc.o: .\CMSIS\stm32f10x.h
+.\objects\misc.o: .\CMSIS\core_cm3.h
+.\objects\misc.o: D:\pro\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: .\CMSIS\system_stm32f10x.h
+.\objects\misc.o: .\USER\stm32f10x_conf.h
+.\objects\misc.o: .\STDLIB\inc\stm32f10x_bkp.h
+.\objects\misc.o: .\CMSIS\stm32f10x.h
+.\objects\misc.o: .\STDLIB\inc\stm32f10x_dma.h
+.\objects\misc.o: .\STDLIB\inc\stm32f10x_gpio.h
+.\objects\misc.o: .\STDLIB\inc\stm32f10x_pwr.h
+.\objects\misc.o: .\STDLIB\inc\stm32f10x_rcc.h
+.\objects\misc.o: .\STDLIB\inc\stm32f10x_rtc.h
+.\objects\misc.o: .\STDLIB\inc\stm32f10x_sdio.h
+.\objects\misc.o: .\STDLIB\inc\stm32f10x_usart.h
+.\objects\misc.o: .\STDLIB\inc\misc.h
