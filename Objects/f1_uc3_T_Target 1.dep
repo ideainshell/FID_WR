@@ -89,7 +89,7 @@ I (D:\pro\KEIL\ARM\ARMCC\include\string.h)(0x574E3E26)
 I (.\HARDWARE\rtc.h)(0x5A03FEE4)
 I (D:\pro\KEIL\ARM\ARMCC\include\stdbool.h)(0x574E3E26)
 I (.\BSP\list.h)(0x5A05EDF5)
-F (.\UCOSIII\APP\app.c)(0x5A07D797)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\BSP -I .\CMSIS -I .\CMSIS\startup -I .\STDLIB\inc -I .\STDLIB\src -I .\UCOSIII\APP -I .\UCOSIII\uC-CPU -I .\UCOSIII\uC-LIB -I .\UCOSIII\uCOS-III\Cfg -I .\UCOSIII\uCOS-III\Ports -I .\UCOSIII\uCOS-III\Source -I .\USER -I .\HARDWARE -I .\HARDWARE\source-IC:\Users\shell\Desktop\指纹（新）\stm32f1_Uc3\RTE-ID:\pro\KEIL\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\pro\KEIL\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\app.o --omf_browse .\objects\app.crf --depend .\objects\app.d)
+F (.\UCOSIII\APP\app.c)(0x5A07EF22)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\BSP -I .\CMSIS -I .\CMSIS\startup -I .\STDLIB\inc -I .\STDLIB\src -I .\UCOSIII\APP -I .\UCOSIII\uC-CPU -I .\UCOSIII\uC-LIB -I .\UCOSIII\uCOS-III\Cfg -I .\UCOSIII\uCOS-III\Ports -I .\UCOSIII\uCOS-III\Source -I .\USER -I .\HARDWARE -I .\HARDWARE\source-IC:\Users\shell\Desktop\指纹（新）\stm32f1_Uc3\RTE-ID:\pro\KEIL\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\pro\KEIL\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\app.o --omf_browse .\objects\app.crf --depend .\objects\app.d)
 I (.\USER\includes.h)(0x5A05E011)
 I (.\CMSIS\stm32f10x.h)(0x4D783CB4)
 I (.\CMSIS\core_cm3.h)(0x4D523B58)

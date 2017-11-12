@@ -50,7 +50,7 @@ void Task_FM(void *p_arg)
 		while(1)
 		{
 		 get_Image(); //»ñÈ¡Í¼Ïñ
-		 OSSemPend(&share_Usart,FR_TIMEOUT,OS_OPT_PEND_BLOCKING,0,&err);
+		 OSSemPend(&share_Usart,200,OS_OPT_PEND_BLOCKING,0,&err);
 			if(err==OS_ERR_TIMEOUT)
 				break;
 		 if(IS_OK(Revtemp)==1)
